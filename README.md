@@ -15,3 +15,9 @@ To install the IEEE Formatting Tool, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/ieee-formatting-tool.git
+
+2. **Usage**
+      To format a document, run the tool from the command line:
+      
+      python ieee_format_tool.py <path-to-your-document.docx>
+
