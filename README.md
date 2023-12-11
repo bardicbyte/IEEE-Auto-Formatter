@@ -1,5 +1,5 @@
 
-# IEEE Formatting Tool
+# IEEE Auto Formatting Tool
 
 ## Description
 This tool automatically formats academic documents to adhere to the IEEE formatting standards. It simplifies the process of preparing papers for submission to IEEE conferences and journals.
